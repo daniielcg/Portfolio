@@ -1,7 +1,5 @@
 # Portfolio Website
 
-# My Personal Portfolio
-
 Welcome to my personal portfolio! This site is a showcase of the projects I've developed and a reflection of my journey as a programmer. Here, you can explore a variety of works that demonstrate my skills and passion for coding.
 
 ## Projects and Works
