@@ -7,5 +7,3 @@ Feel free to explore my work and get in touch if you'd like to connect or collab
 
 Thank you for visiting!
 
----
-*Created by Daniel Gonçalves*
