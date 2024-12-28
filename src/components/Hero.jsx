@@ -36,24 +36,26 @@ const HeroSection = () => {
             seamless digital experiences and bringing ideas to life through
             code.
           </p>
-          <div className="flex justify-center sm:justify-start gap-4">
+          <div className="flex flex-col sm:flex-row justify-center sm:justify-start gap-3 sm:gap-4">
             <Link
-               to="/contact"
-              className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mt-3 mr-4 bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-200 text-white text-center"
+              to="/contact"
+              className="px-6 inline-block py-3 w-full sm:w-auto rounded-full mt-3 bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-200 text-white text-center"
             >
               Hire Me
             </Link>
             <a
               href="src\assets\CV (Inglês).docx"
               download="Daniel_Goncalves_CV.docx"
-              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-800 text-white mt-3"
+              className="px-1 inline-block py-1 w-full sm:w-auto rounded-full bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-800 text-white mt-3 sm:ml-4"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2 text-center">
                 Download CV
               </span>
             </a>
-
           </div>
+
+
+
         </motion.div>
       </div>
     </section>
