@@ -144,12 +144,7 @@ const Contact = () => {
           Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-4 justify-center md:justify-start">
-          <a href="https://github.com/daniielcg" target="_blank" rel="noopener noreferrer">
-          <img class="h-auto w-8 sm:w-10" src="/src/assets/github.png" alt="Github Icon" />
-          </a>
-          <a href="https://www.linkedin.com/in/daniel-gon%C3%A7alves-b916412a3/" target="_blank" rel="noopener noreferrer">
-          <img class="h-auto w-8 sm:w-10" src="/src/assets/social.png" alt="Linkedin Icon" />
-          </a>
+         
 
         </div>
       </motion.div>
