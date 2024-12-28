@@ -44,7 +44,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <a
-              href="CV (Inglês).docx"
+              href="src\assets\CV (Inglês).docx"
               download="Daniel_Goncalves_CV.docx"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-800 text-white mt-3"
             >
