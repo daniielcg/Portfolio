@@ -148,7 +148,7 @@ const Contact = () => {
             <img class="h-auto w-8 sm:w-10" src="/assets/github-icon.svg" alt="Github Icon" />
           </a>
           <a href="https://www.linkedin.com/in/daniel-gon%C3%A7alves-b916412a3/" target="_blank" rel="noopener noreferrer">
-            <img class="h-auto w-8 sm:w-10" src="/assets/linkedin-icon.svg" alt="Linkedin Icon" />
+            <img class="h-auto w-8 sm:w-10" src="src\assets\github.png" alt="Linkedin Icon" />
           </a>
 
         </div>
