@@ -38,20 +38,21 @@ const HeroSection = () => {
           </p>
           <div className="flex justify-center sm:justify-start gap-4">
             <Link
-              to="/#contact"
-              className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mt-3 mr-4 bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-200 text-white"
+               to="/contact"
+              className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mt-3 mr-4 bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-200 text-white text-center"
             >
               Hire Me
             </Link>
             <a
-              href="/CV (Inglês).docx"
+              href="CV (Inglês).docx"
               download="Daniel_Goncalves_CV.docx"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#4b0082] to-[#8a2be2] hover:bg-slate-800 text-white mt-3"
             >
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2 text-center">
                 Download CV
               </span>
             </a>
+
           </div>
         </motion.div>
       </div>

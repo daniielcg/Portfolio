@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I’m Daniel Gonçalves, a dedicated software developer passionate about building dynamic and intuitive web applications. With a strong background in JavaScript, Python, React, Node.js, and Firebase, I specialize in creating scalable and efficient solutions. I enjoy working on visually engaging animations and designing creative user interfaces, while also integrating robust databases like MongoDB and Firebase to ensure seamless functionality. I’m always eager to learn new technologies and apply them to solve real-world challenges. Whether working independently or in a team, I’m committed to delivering exceptional results and bringing ideas to life.
+       I’m Daniel Gonçalves, a dedicated programmer passionate about building dynamic and intuitive web applications. With a strong background in JavaScript, Python, React, Node.js, and Firebase, I specialize in creating scalable and efficient solutions. I enjoy working on visually engaging animations and designing creative user interfaces, while also integrating robust databases like MongoDB and Firebase to ensure seamless functionality. I’m always eager to learn new technologies and apply them to solve real-world challenges. Whether working independently or in a team, I’m committed to delivering exceptional results and bringing ideas to life.
 
       </motion.p>
 
